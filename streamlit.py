@@ -12,5 +12,5 @@ while run:
 	FRAME_WINDOW.image(frame)
 else:
 	st.write('Stopped')
-	camera.release()
-	cv2.destroyAllWindows()
+	# camera.release()
+	# cv2.destroyAllWindows()
